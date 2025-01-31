@@ -81,6 +81,11 @@ body {
     left: 630px;
 }
 
+#and {
+    top: 2400px;
+    right: 50px;
+}
+
 .circlesContainer {
     display: flex;
     flex-direction: column;
