@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hello {
+    position: fixed;
+    color: pink;
+    background-color: lightblue;
+    text-shadow: 1px 3px 1px white;
+    border: 6px dotted orange;
+    width: 300px;
+    left: 300px;
+    top: 100px;
+    font-size: 1
+}
